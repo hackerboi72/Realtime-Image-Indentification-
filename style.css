@@ -1,0 +1,39 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Lato', sans-serif;
+  }
+  .object  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+  }
+  .accuracy{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+  }
+body {
+  background-image: url("depositphotos_148660113-stock-illustration-technology-social-media-network-link.png");
+  text-align: center;
+}
+span {
+  white-space: pre-line;
+}
+.copy_right_footer {
+  position: fixed;
+  color: navy;
+  bottom: 0;
+  width: 100%; 
+  line-height :3 ;
+  background-color: brown;
+  text-align: center; 
+}
+canvas {
+  border-radius: 20px;
+  margin-top: 30px;
+  border: 5px solid white;
+  box-shadow: 5px 5px 5px white;
+}
